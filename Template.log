@@ -1,0 +1,801 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250) (preloaded format=pdflatex 2019.12.27)  23 JAN 2020 23:59
+entering extended mode
+**/home/antoine/Dropbox/UQAC/Cours/Algo/Latex-20200120/Template.tex
+(/home/antoine/Dropbox/UQAC/Cours/Algo/Latex-20200120/Template.tex
+LaTeX2e <2019-10-01> patch level 3
+(/home/antoine/.miktex/texmfs/install/tex/latex/base/article.cls
+Document Class: article 2019/10/25 v1.4k Standard LaTeX document class
+(/home/antoine/.miktex/texmfs/install/tex/latex/base/size12.clo
+File: size12.clo 2019/10/25 v1.4k Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/home/antoine/.miktex/texmfs/install/tex/latex/base/inputenc.sty
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks14
+\inpenc@posthook=\toks15
+)
+(/home/antoine/.miktex/texmfs/install/tex/latex/base/fontenc.sty
+Package: fontenc 2018/08/11 v2.0j Standard LaTeX package
+
+(/home/antoine/.miktex/texmfs/install/tex/latex/base/t1enc.def
+File: t1enc.def 2018/08/11 v2.0j Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
+))
+(/home/antoine/.miktex/texmfs/install/tex/latex/lm/lmodern.sty
+Package: lmodern 2009/10/30 v1.6 Latin Modern Fonts
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/lmr/m/n on input line 22.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/lmm/m/it on input line 23.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/lmsy/m/n on input line 24.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 25.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 26.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/lmm/b/it on input line 27.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/lmsy/b/n on input line 28.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 29.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 31.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT1/lmss/m/n on input line 32.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/lmr/m/it on input line 33.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT1/lmss/bx/n on input line 36.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/lmr/bx/it on input line 37.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 38.
+)
+(/home/antoine/.miktex/texmfs/install/tex/latex/geometry/geometry.sty
+Package: geometry 2018/04/16 v5.8 Page Geometry
+
+(/home/antoine/.miktex/texmfs/install/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+(/home/antoine/.miktex/texmfs/install/tex/generic/iftex/ifpdf.sty
+Package: ifpdf 2019/10/25 v3.4 ifpdf legacy package. Use iftex instead.
+
+(/home/antoine/.miktex/texmfs/install/tex/generic/iftex/iftex.sty
+Package: iftex 2019/11/07 v1.0c TeX engine tests
+))
+(/home/antoine/.miktex/texmfs/install/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+)
+(/home/antoine/.miktex/texmfs/install/tex/generic/iftex/ifxetex.sty
+Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
+)
+\Gm@cnth=\count88
+\Gm@cntv=\count89
+\c@Gm@tempcnt=\count90
+\Gm@bindingoffset=\dimen103
+\Gm@wd@mp=\dimen104
+\Gm@odd@mp=\dimen105
+\Gm@even@mp=\dimen106
+\Gm@layoutwidth=\dimen107
+\Gm@layoutheight=\dimen108
+\Gm@layouthoffset=\dimen109
+\Gm@layoutvoffset=\dimen110
+\Gm@dimlist=\toks17
+
+(/home/antoine/.miktex/texmfs/install/tex/latex/geometry/geometry.cfg))
+(/home/antoine/.miktex/texmfs/install/tex/generic/babel/babel.sty
+Package: babel 2019/12/08 3.37 The Babel package
+
+(/home/antoine/.miktex/texmfs/install/tex/generic/babel/switch.def
+File: switch.def 2019/12/08 3.37 Babel switching mechanism
+)
+*************************************
+* Local config file bblopts.cfg used
+*
+(/home/antoine/.miktex/texmfs/install/tex/latex/arabi/bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+(/home/antoine/.miktex/texmfs/install/tex/generic/babel-french/french.ldf
+Language: french 2019/09/07 v3.5f French support from the babel system
+
+(/home/antoine/.miktex/texmfs/install/tex/generic/babel/babel.def
+File: babel.def 2019/12/08 3.37 Babel common definitions
+\babel@savecnt=\count91
+\U@D=\dimen111
+
+(/home/antoine/.miktex/texmfs/install/tex/generic/babel/txtbabel.def)
+\bbl@dirlevel=\count92
+)
+
+Package babel Warning: No hyphenation patterns were preloaded for
+(babel)                the language `French' into the format.
+(babel)                Please, configure your TeX system to add them and
+(babel)                rebuild the format. Now I will use the patterns
+(babel)                preloaded for \language=nohyphenation instead on input l
+ine 87.
+
+\FB@nonchar=\count93
+Package babel Info: Making : an active character on input line 419.
+Package babel Info: Making ; an active character on input line 420.
+Package babel Info: Making ! an active character on input line 421.
+Package babel Info: Making ? an active character on input line 422.
+\FBguill@level=\count94
+\FBold@everypar=\toks18
+\FB@Mht=\dimen112
+\mc@charclass=\count95
+\mc@charfam=\count96
+\mc@charslot=\count97
+\std@mcc=\count98
+\dec@mcc=\count99
+\c@FBcaption@count=\count100
+\listindentFB=\dimen113
+\descindentFB=\dimen114
+\labelindentFB=\dimen115
+\labelwidthFB=\dimen116
+\leftmarginFB=\dimen117
+\parindentFFN=\dimen118
+\FBfnindent=\dimen119
+)) (/home/antoine/.miktex/texmfs/install/tex/latex/carlisle/scalefnt.sty)
+(/home/antoine/.miktex/texmfs/install/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2019/11/16 v2.17d AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+(/home/antoine/.miktex/texmfs/install/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(/home/antoine/.miktex/texmfs/install/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks19
+\ex@=\dimen120
+))
+(/home/antoine/.miktex/texmfs/install/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen121
+)
+(/home/antoine/.miktex/texmfs/install/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count101
+LaTeX Info: Redefining \frac on input line 227.
+\uproot@=\count102
+\leftroot@=\count103
+LaTeX Info: Redefining \overline on input line 389.
+\classnum@=\count104
+\DOTSCASE@=\count105
+LaTeX Info: Redefining \ldots on input line 486.
+LaTeX Info: Redefining \dots on input line 489.
+LaTeX Info: Redefining \cdots on input line 610.
+\Mathstrutbox@=\box27
+\strutbox@=\box28
+\big@size=\dimen122
+LaTeX Font Info:    Redeclaring font encoding OML on input line 733.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
+\macc@depth=\count106
+\c@MaxMatrixCols=\count107
+\dotsspace@=\muskip10
+\c@parentequation=\count108
+\dspbrk@lvl=\count109
+\tag@help=\toks20
+\row@=\count110
+\column@=\count111
+\maxfields@=\count112
+\andhelp@=\toks21
+\eqnshift@=\dimen123
+\alignsep@=\dimen124
+\tagshift@=\dimen125
+\tagwidth@=\dimen126
+\totwidth@=\dimen127
+\lineht@=\dimen128
+\@envbody=\toks22
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks23
+LaTeX Info: Redefining \[ on input line 2858.
+LaTeX Info: Redefining \] on input line 2859.
+)
+(/home/antoine/.miktex/texmfs/install/tex/latex/pgf/frontendlayer/tikz.sty
+(/home/antoine/.miktex/texmfs/install/tex/latex/pgf/basiclayer/pgf.sty
+(/home/antoine/.miktex/texmfs/install/tex/latex/pgf/utilities/pgfrcs.sty
+(/home/antoine/.miktex/texmfs/install/tex/generic/pgf/utilities/pgfutil-common.
+tex
+\pgfutil@everybye=\toks24
+\pgfutil@tempdima=\dimen129
+\pgfutil@tempdimb=\dimen130
+
+(/home/antoine/.miktex/texmfs/install/tex/generic/pgf/utilities/pgfutil-common-
+lists.tex))
+(/home/antoine/.miktex/texmfs/install/tex/generic/pgf/utilities/pgfutil-latex.d
+ef
+\pgfutil@abb=\box29
+ (/home/antoine/.miktex/texmfs/install/tex/latex/ms/everyshi.sty
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+))
+(/home/antoine/.miktex/texmfs/install/tex/generic/pgf/utilities/pgfrcs.code.tex
+(/home/antoine/.miktex/texmfs/install/tex/generic/pgf/pgf.revision.tex)
+Package: pgfrcs 2019/12/21 v3.1.5a (3.1.5a)
+))
+Package: pgf 2019/12/21 v3.1.5a (3.1.5a)
+
+(/home/antoine/.miktex/texmfs/install/tex/latex/pgf/basiclayer/pgfcore.sty
+(/home/antoine/.miktex/texmfs/install/tex/latex/graphics/graphicx.sty
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/home/antoine/.miktex/texmfs/install/tex/latex/graphics/graphics.sty
+Package: graphics 2019/11/01 v1.3d Standard LaTeX Graphics (DPC,SPQR)
+
+(/home/antoine/.miktex/texmfs/install/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/home/antoine/.miktex/texmfs/install/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+(/home/antoine/.miktex/texmfs/install/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen131
+\Gin@req@width=\dimen132
+)
+(/home/antoine/.miktex/texmfs/install/tex/latex/pgf/systemlayer/pgfsys.sty
+(/home/antoine/.miktex/texmfs/install/tex/generic/pgf/systemlayer/pgfsys.code.t
+ex
+Package: pgfsys 2019/12/21 v3.1.5a (3.1.5a)
+
+(/home/antoine/.miktex/texmfs/install/tex/generic/pgf/utilities/pgfkeys.code.te
+x
+\pgfkeys@pathtoks=\toks25
+\pgfkeys@temptoks=\toks26
+
+(/home/antoine/.miktex/texmfs/install/tex/generic/pgf/utilities/pgfkeysfiltered
+.code.tex
+\pgfkeys@tmptoks=\toks27
+))
+\pgf@x=\dimen133
+\pgf@y=\dimen134
+\pgf@xa=\dimen135
+\pgf@ya=\dimen136
+\pgf@xb=\dimen137
+\pgf@yb=\dimen138
+\pgf@xc=\dimen139
+\pgf@yc=\dimen140
+\pgf@xd=\dimen141
+\pgf@yd=\dimen142
+\w@pgf@writea=\write3
+\r@pgf@reada=\read1
+\c@pgf@counta=\count113
+\c@pgf@countb=\count114
+\c@pgf@countc=\count115
+\c@pgf@countd=\count116
+\t@pgf@toka=\toks28
+\t@pgf@tokb=\toks29
+\t@pgf@tokc=\toks30
+\pgf@sys@id@count=\count117
+
+(/home/antoine/.miktex/texmfs/install/tex/generic/pgf/systemlayer/pgf.cfg
+File: pgf.cfg 2019/12/21 v3.1.5a (3.1.5a)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+(/home/antoine/.miktex/texmfs/install/tex/generic/pgf/systemlayer/pgfsys-pdftex
+.def
+File: pgfsys-pdftex.def 2019/12/21 v3.1.5a (3.1.5a)
+
+(/home/antoine/.miktex/texmfs/install/tex/generic/pgf/systemlayer/pgfsys-common
+-pdf.def
+File: pgfsys-common-pdf.def 2019/12/21 v3.1.5a (3.1.5a)
+)))
+(/home/antoine/.miktex/texmfs/install/tex/generic/pgf/systemlayer/pgfsyssoftpat
+h.code.tex
+File: pgfsyssoftpath.code.tex 2019/12/21 v3.1.5a (3.1.5a)
+\pgfsyssoftpath@smallbuffer@items=\count118
+\pgfsyssoftpath@bigbuffer@items=\count119
+)
+(/home/antoine/.miktex/texmfs/install/tex/generic/pgf/systemlayer/pgfsysprotoco
+l.code.tex
+File: pgfsysprotocol.code.tex 2019/12/21 v3.1.5a (3.1.5a)
+)) (/home/antoine/.miktex/texmfs/install/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(/home/antoine/.miktex/texmfs/install/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+(/home/antoine/.miktex/texmfs/install/tex/generic/pgf/basiclayer/pgfcore.code.t
+ex
+Package: pgfcore 2019/12/21 v3.1.5a (3.1.5a)
+ (/home/antoine/.miktex/texmfs/install/tex/generic/pgf/math/pgfmath.code.tex
+(/home/antoine/.miktex/texmfs/install/tex/generic/pgf/math/pgfmathcalc.code.tex
+
+(/home/antoine/.miktex/texmfs/install/tex/generic/pgf/math/pgfmathutil.code.tex
+)
+(/home/antoine/.miktex/texmfs/install/tex/generic/pgf/math/pgfmathparser.code.t
+ex
+\pgfmath@dimen=\dimen143
+\pgfmath@count=\count120
+\pgfmath@box=\box30
+\pgfmath@toks=\toks31
+\pgfmath@stack@operand=\toks32
+\pgfmath@stack@operation=\toks33
+)
+(/home/antoine/.miktex/texmfs/install/tex/generic/pgf/math/pgfmathfunctions.cod
+e.tex
+(/home/antoine/.miktex/texmfs/install/tex/generic/pgf/math/pgfmathfunctions.bas
+ic.code.tex)
+(/home/antoine/.miktex/texmfs/install/tex/generic/pgf/math/pgfmathfunctions.tri
+gonometric.code.tex)
+(/home/antoine/.miktex/texmfs/install/tex/generic/pgf/math/pgfmathfunctions.ran
+dom.code.tex)
+(/home/antoine/.miktex/texmfs/install/tex/generic/pgf/math/pgfmathfunctions.com
+parison.code.tex)
+(/home/antoine/.miktex/texmfs/install/tex/generic/pgf/math/pgfmathfunctions.bas
+e.code.tex)
+(/home/antoine/.miktex/texmfs/install/tex/generic/pgf/math/pgfmathfunctions.rou
+nd.code.tex)
+(/home/antoine/.miktex/texmfs/install/tex/generic/pgf/math/pgfmathfunctions.mis
+c.code.tex)
+(/home/antoine/.miktex/texmfs/install/tex/generic/pgf/math/pgfmathfunctions.int
+egerarithmetics.code.tex)))
+(/home/antoine/.miktex/texmfs/install/tex/generic/pgf/math/pgfmathfloat.code.te
+x
+\c@pgfmathroundto@lastzeros=\count121
+)) (/home/antoine/.miktex/texmfs/install/tex/generic/pgf/math/pgfint.code.tex)
+(/home/antoine/.miktex/texmfs/install/tex/generic/pgf/basiclayer/pgfcorepoints.
+code.tex
+File: pgfcorepoints.code.tex 2019/12/21 v3.1.5a (3.1.5a)
+\pgf@picminx=\dimen144
+\pgf@picmaxx=\dimen145
+\pgf@picminy=\dimen146
+\pgf@picmaxy=\dimen147
+\pgf@pathminx=\dimen148
+\pgf@pathmaxx=\dimen149
+\pgf@pathminy=\dimen150
+\pgf@pathmaxy=\dimen151
+\pgf@xx=\dimen152
+\pgf@xy=\dimen153
+\pgf@yx=\dimen154
+\pgf@yy=\dimen155
+\pgf@zx=\dimen156
+\pgf@zy=\dimen157
+)
+(/home/antoine/.miktex/texmfs/install/tex/generic/pgf/basiclayer/pgfcorepathcon
+struct.code.tex
+File: pgfcorepathconstruct.code.tex 2019/12/21 v3.1.5a (3.1.5a)
+\pgf@path@lastx=\dimen158
+\pgf@path@lasty=\dimen159
+)
+(/home/antoine/.miktex/texmfs/install/tex/generic/pgf/basiclayer/pgfcorepathusa
+ge.code.tex
+File: pgfcorepathusage.code.tex 2019/12/21 v3.1.5a (3.1.5a)
+\pgf@shorten@end@additional=\dimen160
+\pgf@shorten@start@additional=\dimen161
+)
+(/home/antoine/.miktex/texmfs/install/tex/generic/pgf/basiclayer/pgfcorescopes.
+code.tex
+File: pgfcorescopes.code.tex 2019/12/21 v3.1.5a (3.1.5a)
+\pgfpic=\box31
+\pgf@hbox=\box32
+\pgf@layerbox@main=\box33
+\pgf@picture@serial@count=\count122
+)
+(/home/antoine/.miktex/texmfs/install/tex/generic/pgf/basiclayer/pgfcoregraphic
+state.code.tex
+File: pgfcoregraphicstate.code.tex 2019/12/21 v3.1.5a (3.1.5a)
+\pgflinewidth=\dimen162
+)
+(/home/antoine/.miktex/texmfs/install/tex/generic/pgf/basiclayer/pgfcoretransfo
+rmations.code.tex
+File: pgfcoretransformations.code.tex 2019/12/21 v3.1.5a (3.1.5a)
+\pgf@pt@x=\dimen163
+\pgf@pt@y=\dimen164
+\pgf@pt@temp=\dimen165
+)
+(/home/antoine/.miktex/texmfs/install/tex/generic/pgf/basiclayer/pgfcorequick.c
+ode.tex
+File: pgfcorequick.code.tex 2019/12/21 v3.1.5a (3.1.5a)
+)
+(/home/antoine/.miktex/texmfs/install/tex/generic/pgf/basiclayer/pgfcoreobjects
+.code.tex
+File: pgfcoreobjects.code.tex 2019/12/21 v3.1.5a (3.1.5a)
+)
+(/home/antoine/.miktex/texmfs/install/tex/generic/pgf/basiclayer/pgfcorepathpro
+cessing.code.tex
+File: pgfcorepathprocessing.code.tex 2019/12/21 v3.1.5a (3.1.5a)
+)
+(/home/antoine/.miktex/texmfs/install/tex/generic/pgf/basiclayer/pgfcorearrows.
+code.tex
+File: pgfcorearrows.code.tex 2019/12/21 v3.1.5a (3.1.5a)
+\pgfarrowsep=\dimen166
+)
+(/home/antoine/.miktex/texmfs/install/tex/generic/pgf/basiclayer/pgfcoreshade.c
+ode.tex
+File: pgfcoreshade.code.tex 2019/12/21 v3.1.5a (3.1.5a)
+\pgf@max=\dimen167
+\pgf@sys@shading@range@num=\count123
+\pgf@shadingcount=\count124
+)
+(/home/antoine/.miktex/texmfs/install/tex/generic/pgf/basiclayer/pgfcoreimage.c
+ode.tex
+File: pgfcoreimage.code.tex 2019/12/21 v3.1.5a (3.1.5a)
+
+(/home/antoine/.miktex/texmfs/install/tex/generic/pgf/basiclayer/pgfcoreexterna
+l.code.tex
+File: pgfcoreexternal.code.tex 2019/12/21 v3.1.5a (3.1.5a)
+\pgfexternal@startupbox=\box34
+))
+(/home/antoine/.miktex/texmfs/install/tex/generic/pgf/basiclayer/pgfcorelayers.
+code.tex
+File: pgfcorelayers.code.tex 2019/12/21 v3.1.5a (3.1.5a)
+)
+(/home/antoine/.miktex/texmfs/install/tex/generic/pgf/basiclayer/pgfcoretranspa
+rency.code.tex
+File: pgfcoretransparency.code.tex 2019/12/21 v3.1.5a (3.1.5a)
+)
+(/home/antoine/.miktex/texmfs/install/tex/generic/pgf/basiclayer/pgfcorepattern
+s.code.tex
+File: pgfcorepatterns.code.tex 2019/12/21 v3.1.5a (3.1.5a)
+)
+(/home/antoine/.miktex/texmfs/install/tex/generic/pgf/basiclayer/pgfcorerdf.cod
+e.tex
+File: pgfcorerdf.code.tex 2019/12/21 v3.1.5a (3.1.5a)
+)))
+(/home/antoine/.miktex/texmfs/install/tex/generic/pgf/modules/pgfmoduleshapes.c
+ode.tex
+File: pgfmoduleshapes.code.tex 2019/12/21 v3.1.5a (3.1.5a)
+\pgfnodeparttextbox=\box35
+)
+(/home/antoine/.miktex/texmfs/install/tex/generic/pgf/modules/pgfmoduleplot.cod
+e.tex
+File: pgfmoduleplot.code.tex 2019/12/21 v3.1.5a (3.1.5a)
+)
+(/home/antoine/.miktex/texmfs/install/tex/latex/pgf/compatibility/pgfcomp-versi
+on-0-65.sty
+Package: pgfcomp-version-0-65 2019/12/21 v3.1.5a (3.1.5a)
+\pgf@nodesepstart=\dimen168
+\pgf@nodesepend=\dimen169
+)
+(/home/antoine/.miktex/texmfs/install/tex/latex/pgf/compatibility/pgfcomp-versi
+on-1-18.sty
+Package: pgfcomp-version-1-18 2019/12/21 v3.1.5a (3.1.5a)
+))
+(/home/antoine/.miktex/texmfs/install/tex/latex/pgf/utilities/pgffor.sty
+(/home/antoine/.miktex/texmfs/install/tex/latex/pgf/utilities/pgfkeys.sty
+(/home/antoine/.miktex/texmfs/install/tex/generic/pgf/utilities/pgfkeys.code.te
+x)) (/home/antoine/.miktex/texmfs/install/tex/latex/pgf/math/pgfmath.sty
+(/home/antoine/.miktex/texmfs/install/tex/generic/pgf/math/pgfmath.code.tex))
+(/home/antoine/.miktex/texmfs/install/tex/generic/pgf/utilities/pgffor.code.tex
+Package: pgffor 2019/12/21 v3.1.5a (3.1.5a)
+(/home/antoine/.miktex/texmfs/install/tex/generic/pgf/math/pgfmath.code.tex)
+\pgffor@iter=\dimen170
+\pgffor@skip=\dimen171
+\pgffor@stack=\toks34
+\pgffor@toks=\toks35
+))
+(/home/antoine/.miktex/texmfs/install/tex/generic/pgf/frontendlayer/tikz/tikz.c
+ode.tex
+Package: tikz 2019/12/21 v3.1.5a (3.1.5a)
+
+(/home/antoine/.miktex/texmfs/install/tex/generic/pgf/libraries/pgflibraryploth
+andlers.code.tex
+File: pgflibraryplothandlers.code.tex 2019/12/21 v3.1.5a (3.1.5a)
+\pgf@plot@mark@count=\count125
+\pgfplotmarksize=\dimen172
+)
+\tikz@lastx=\dimen173
+\tikz@lasty=\dimen174
+\tikz@lastxsaved=\dimen175
+\tikz@lastysaved=\dimen176
+\tikz@lastmovetox=\dimen177
+\tikz@lastmovetoy=\dimen178
+\tikzleveldistance=\dimen179
+\tikzsiblingdistance=\dimen180
+\tikz@figbox=\box36
+\tikz@figbox@bg=\box37
+\tikz@tempbox=\box38
+\tikz@tempbox@bg=\box39
+\tikztreelevel=\count126
+\tikznumberofchildren=\count127
+\tikznumberofcurrentchild=\count128
+\tikz@fig@count=\count129
+
+(/home/antoine/.miktex/texmfs/install/tex/generic/pgf/modules/pgfmodulematrix.c
+ode.tex
+File: pgfmodulematrix.code.tex 2019/12/21 v3.1.5a (3.1.5a)
+\pgfmatrixcurrentrow=\count130
+\pgfmatrixcurrentcolumn=\count131
+\pgf@matrix@numberofcolumns=\count132
+)
+\tikz@expandcount=\count133
+
+(/home/antoine/.miktex/texmfs/install/tex/generic/pgf/frontendlayer/tikz/librar
+ies/tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2019/12/21 v3.1.5a (3.1.5a)
+)))
+(/home/antoine/.miktex/texmfs/install/tex/generic/pgf/frontendlayer/tikz/librar
+ies/tikzlibraryarrows.code.tex
+File: tikzlibraryarrows.code.tex 2019/12/21 v3.1.5a (3.1.5a)
+
+(/home/antoine/.miktex/texmfs/install/tex/generic/pgf/libraries/pgflibraryarrow
+s.code.tex
+File: pgflibraryarrows.code.tex 2019/12/21 v3.1.5a (3.1.5a)
+\arrowsize=\dimen181
+))
+(/home/antoine/.miktex/texmfs/install/tex/latex/preprint/fullpage.sty
+Package: fullpage 1999/02/23 1.1 (PWD)
+\FP@margin=\skip46
+)
+(/home/antoine/.miktex/texmfs/install/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/home/antoine/.miktex/texmfs/install/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(/home/antoine/.miktex/texmfs/install/tex/latex/cite/cite.sty
+LaTeX Info: Redefining \cite on input line 302.
+LaTeX Info: Redefining \nocite on input line 332.
+Package: cite 2015/02/27  v 5.5
+)
+(/home/antoine/.miktex/texmfs/install/tex/latex/caption/caption.sty
+Package: caption 2020/01/03 v3.4h Customizing captions (AR)
+
+(/home/antoine/.miktex/texmfs/install/tex/latex/caption/caption3.sty
+Package: caption3 2020/01/03 v1.8h caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 61.
+\captionmargin=\dimen182
+\captionmargin@=\dimen183
+\captionwidth=\dimen184
+\caption@tempdima=\dimen185
+\caption@indent=\dimen186
+\caption@parindent=\dimen187
+\caption@hangindent=\dimen188
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count134
+\c@continuedfloat=\count135
+)
+(Template.aux)
+\openout1 = `Template.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Trying to load font information for T1+lmr on input line 23
+.
+ (/home/antoine/.miktex/texmfs/install/tex/latex/lm/t1lmr.fd
+File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: letterpaper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(85.35826pt, 472.03123pt, 56.9055pt)
+* v-part:(T,H,B)=(42.67912pt, 695.38536pt, 56.9055pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=469.75502pt
+* \textheight=620.43001pt
+* \oddsidemargin=0.0pt
+* \evensidemargin=0.0pt
+* \topmargin=0.0pt
+* \headheight=0.0pt
+* \headsep=0.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=44.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+LaTeX Info: Redefining \degres on input line 23.
+LaTeX Info: Redefining \dots on input line 23.
+LaTeX Info: Redefining \up on input line 23.
+ABD: EveryShipout initializing macros
+(/home/antoine/.miktex/texmfs/install/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count136
+\scratchdimen=\dimen189
+\scratchbox=\box40
+\nofMPsegments=\count137
+\nofMParguments=\count138
+\everyMPshowfont=\toks36
+\MPscratchCnt=\count139
+\MPscratchDim=\dimen190
+\MPnumerator=\count140
+\makeMPintoPDFobject=\count141
+\everyMPtoPDFconversion=\toks37
+)
+(/home/antoine/.miktex/texmfs/install/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2019-12-09 v2.10 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+)
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+[1
+
+{/home/antoine/.miktex/texmfs/data/pdftex/config/pdftex.map}] (Template.toc
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 3
+.
+
+(/home/antoine/.miktex/texmfs/install/tex/latex/lm/ot1lmr.fd
+File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 3
+.
+
+(/home/antoine/.miktex/texmfs/install/tex/latex/lm/omllmm.fd
+File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 
+3.
+
+(/home/antoine/.miktex/texmfs/install/tex/latex/lm/omslmsy.fd
+File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 
+3.
+
+(/home/antoine/.miktex/texmfs/install/tex/latex/lm/omxlmex.fd
+File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <12> on input line 3.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <8> on input line 3.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <6> on input line 3.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 3.
+
+(/home/antoine/.miktex/texmfs/install/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 3.
+
+(/home/antoine/.miktex/texmfs/install/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+))
+\tf@toc=\write4
+\openout4 = `Template.toc'.
+
+ [1]
+
+LaTeX Warning: Citation `aguirre2017automation' on page 2 undefined on input li
+ne 110.
+
+
+LaTeX Warning: Citation `Lacity2015RoboticPA' on page 2 undefined on input line
+ 111.
+
+
+LaTeX Warning: Citation `allahverdi2008survey' on page 2 undefined on input lin
+e 112.
+
+
+LaTeX Warning: Citation `vanderAalst2018' on page 2 undefined on input line 137
+.
+
+<logo.jpg, id=15, 308.15125pt x 164.615pt>
+File: logo.jpg Graphic file (type jpg)
+<use logo.jpg>
+Package pdftex.def Info: logo.jpg  used on input line 157.
+(pdftex.def)             Requested size: 61.62915pt x 32.92241pt.
+[2 </home/antoine/Dropbox/UQAC/Cours/Algo/Latex-20200120/logo.jpg>]
+
+LaTeX Warning: Citation `AnaBusic2013cours' undefined on input line 162.
+
+
+LaTeX Warning: Citation `test' undefined on input line 163.
+
+(Template.bbl
+! Undefined control sequence.
+l.26   \url
+           {http://web.archive.org/web/20080207010024/http://www.808multimed...
+
+? ?
+Type <return> to proceed, S to scroll future error messages,
+R to run without stopping, Q to run quietly,
+I to insert something, E to edit your file,
+1 or ... or 9 to ignore the next 1 to 9 tokens of input,
+H for help, X to quit.
+? ?
+Type <return> to proceed, S to scroll future error messages,
+R to run without stopping, Q to run quietly,
+I to insert something, E to edit your file,
+1 or ... or 9 to ignore the next 1 to 9 tokens of input,
+H for help, X to quit.
+? 
+
+Overfull \hbox (102.61528pt too wide) in paragraph at lines 22--28
+\T1/lmr/m/n/12 gloutons.  http ://web.archive.org/web/20080207010024/http ://ww
+w.808multimedia.com/winnt/kernel.htm,
+ []
+
+) [3] (Template.aux)
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 16352 strings out of 494411
+ 313948 string characters out of 3174369
+ 355767 words of memory out of 3000000
+ 20147 multiletter control sequences out of 15000+200000
+ 60686 words of font info for 46 fonts, out of 3000000 for 9000
+ 0 hyphenation exceptions out of 8191
+ 60i,8n,60p,466b,425s stack positions out of 5000i,500n,10000p,200000b,50000s
+{/home/antoine/.miktex/texmfs/install/fonts/enc/dvips/lm/lm-mathsy.enc}{/home
+/antoine/.miktex/texmfs/install/fonts/enc/dvips/lm/lm-mathit.enc}{/home/antoine
+/.miktex/texmfs/install/fonts/enc/dvips/lm/lm-rm.enc}{/home/antoine/.miktex/tex
+mfs/install/fonts/enc/dvips/lm/lm-ec.enc}</home/antoine/.miktex/texmfs/install/
+fonts/type1/public/lm/lmbx12.pfb></home/antoine/.miktex/texmfs/install/fonts/ty
+pe1/public/lm/lmcsc10.pfb></home/antoine/.miktex/texmfs/install/fonts/type1/pub
+lic/lm/lmmi12.pfb></home/antoine/.miktex/texmfs/install/fonts/type1/public/lm/l
+mmi8.pfb></home/antoine/.miktex/texmfs/install/fonts/type1/public/lm/lmr12.pfb>
+</home/antoine/.miktex/texmfs/install/fonts/type1/public/lm/lmr8.pfb></home/ant
+oine/.miktex/texmfs/install/fonts/type1/public/lm/lmri12.pfb></home/antoine/.mi
+ktex/texmfs/install/fonts/type1/public/lm/lmsy10.pfb></home/antoine/.miktex/tex
+mfs/install/fonts/type1/public/lm/lmsy8.pfb>
+Output written on Template.pdf (4 pages, 163634 bytes).
+PDF statistics:
+ 61 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 18 words of extra memory for PDF output out of 10000 (max. 10000000)
+

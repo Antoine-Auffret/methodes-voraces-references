@@ -1,0 +1,122 @@
+\documentclass[french,12pt]{article} %type de document et langue
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{lmodern}
+\usepackage[letterpaper,tmargin=1.5cm, bmargin=2cm, lmargin=3cm, rmargin=2cm,
+]{geometry}
+\usepackage{babel}
+\usepackage{amsmath}
+\usepackage{tikz} %Utile pour des figures "à la main"
+\usetikzlibrary{arrows}
+\usepackage{fullpage}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{graphicx} %Pour les figures
+\usepackage{cite}
+\usepackage{url}
+
+\setlength\parindent{0pt}
+\usepackage{caption}
+\captionsetup[table]{name=Tableau}
+\captionsetup[figure]{name=Figure}
+
+
+\begin{document}
+	
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Page titre
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{titlepage} % Suppresses displaying the page number on the title page and the subsequent page counts as page 1
+	\newcommand{\HRule}{\rule{\linewidth}{0.5mm}} % Defines a new command for horizontal lines, change thickness here
+	
+	\center % Centre everything on the page
+	
+	%------------------------------------------------
+	%	Headings
+	%------------------------------------------------
+	
+	\textsc{\LARGE Université du Québec à Chicoutimi}\\[1.5cm] % Main heading such as the name of your university/college
+	
+	\textsc{\Large Département d'informatique et de mathématique}\\[0.5cm] % Major heading such as course name
+	
+	\textsc{\large 8INF870 - Algorithmique }\\[0.5cm] % Minor heading such as course title
+	
+	%------------------------------------------------
+	%	Title
+	%------------------------------------------------
+	
+	\HRule\\[0.4cm]
+	
+	{\huge\bfseries Méthodes voraces }\\[0.4cm] % Title of your document
+	
+	\HRule\\[1.5cm]
+	
+	%------------------------------------------------
+	%	Author(s)
+	%------------------------------------------------
+	
+
+		\begin{center}
+			\large
+			\textit{Auteur}\\
+			Antoine Auffret
+			%etc...
+		\end{center}
+
+
+	
+	% If you don't want a supervisor, uncomment the two lines below and comment the code above
+	{\large\textit{Professeure}}\\
+	Sara \textsc{Séguin} % Your name
+	
+	%------------------------------------------------
+	%	Logo
+	%------------------------------------------------
+	
+	\vfill\vfill
+	\includegraphics[width=0.3\textwidth]{logo.jpg}\\[1cm] % Include a department/university logo - this will require the graphicx package
+
+	%------------------------------------------------
+	%	Date
+	%------------------------------------------------
+	
+	\vfill\vfill\vfill % Position the date 3/4 down the remaining page
+	
+	{\large\today} % Date, change the \today to a set date if you want to be precise
+	
+	\vfill % Push the date up 1/4 of the remaining page
+
+	%----------------------------------------------------------------------------------------
+	
+\end{titlepage}	
+
+\newpage %Nouvelle page...
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Bibliographie
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\nocite{AnaBusic2013cours}
+\nocite{Halioui2004web}
+\nocite{Grandcolas2006web}
+\nocite{Moore2016wiki}
+\nocite{Olckers2019web}
+\nocite{Kumar2019web}
+\nocite{Bejian2003web}
+\nocite{Edmonds1971article}
+\nocite{Glouton2015wiki}
+\nocite{NFP1362018cours}
+\nocite{Norbert2014book}
+\nocite{nguyen2018greedy}
+\nocite{Hamel2016cours}
+\nocite{Olckers2019web}
+\nocite{Freak2018top}
+\nocite{tuto2014sdz}
+
+\addcontentsline{toc}{section}{Bibliographie} %Pour ajouter à la table des matières
+\bibliographystyle{plain}
+\bibliography{biblio}
+
+
+\end{document}
